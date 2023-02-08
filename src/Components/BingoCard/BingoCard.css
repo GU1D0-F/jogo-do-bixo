@@ -1,0 +1,16 @@
+table {
+    width: 50%;
+    border: 1px solid black;
+}
+
+th, td {
+    width: 20%;
+    height: 20%;
+    padding: 15px;
+    border: 1px solid black;
+}
+
+img {
+    width: 75%;
+    height: 75%;
+}
