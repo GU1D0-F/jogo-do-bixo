@@ -1,15 +1,10 @@
 import React from "react";
-import BingoCard from "./Components/BingoCard/BingoCard";
-import BingoController from "./Components/BingoController";
+import Home from "./Pages/Home";
 
 function App() {
   return (
     <div className="App">
-      <center>
-      <h1>Jogo do Bixo Online</h1>
-      </center>
-      <BingoCard />
-      <BingoController />
+      <Home />
     </div>
   );
 }
